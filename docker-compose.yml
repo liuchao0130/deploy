@@ -1,4 +1,4 @@
-version: '3.7'
+version: '3.0'
 services:
   worker:
     image: leishi1313/aurora-admin-backend:latest
